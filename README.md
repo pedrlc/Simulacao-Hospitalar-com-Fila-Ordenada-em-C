@@ -76,6 +76,6 @@ A remoção sempre ocorre no início da fila, garantindo que o paciente com maio
 ----
 # Autor   
 
-Pedro Lucas (pedrlc)
-Estudante de Engenharia de Software GitHub: https://github.com/pedrlc
-Linkedin: www.linkedin.com/in/pedro-lucas-lopes-monteiro
+Pedro Lucas (pedrlc)   
+Estudante de Engenharia de Software GitHub: https://github.com/pedrlc   
+Linkedin: www.linkedin.com/in/pedro-lucas-lopes-monteiro   
