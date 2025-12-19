@@ -74,5 +74,8 @@ void inserir(FilaPrioridade* f, char nome[], int prioridade) {
 A remoção sempre ocorre no início da fila, garantindo que o paciente com maior prioridade seja atendido primeiro.
 
 ----
-Feito por Pedro Lc (pedrlc)   
-@pedro.lc_
+# Autor   
+
+Pedro Lucas (pedrlc)
+Estudante de Engenharia de Software GitHub: https://github.com/pedrlc
+Linkedin: www.linkedin.com/in/pedro-lucas-lopes-monteiro
